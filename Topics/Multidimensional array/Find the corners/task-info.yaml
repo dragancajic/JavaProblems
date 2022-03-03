@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class ArrayOperations {
+        public static void printCorners(int[][] twoDimArray) {
+            // write your code here
+
+        }
+    }
+  learner_created: false
+- name: src/FindCorners.java
+  visible: true
+  learner_created: true
+- name: src/FindCornersHardWay.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12443#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 13 Aug 2021 11:22:41 UTC
+record: -1
