@@ -16,5 +16,8 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/2954#comment
-status: Failed
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 13 Jan 2023 00:07:10 UTC
 record: -1
